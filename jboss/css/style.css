@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    margin-top: -20px;
+}
+.header {
+    background: green;
+    color: white;
+    padding: 50px 50px 50px; 
+}
+.table1 {
+    margin-left:200px;
+    font-size: 20px;
+    background: rgb(226, 211, 211);
+    padding: 10px;
+}
+.h2 {
+    padding-bottom: 20px;
+}
+.div1 {
+    display: flex;
+    padding: 50px 50px 50px ;
+     
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: purple;
+}
+
