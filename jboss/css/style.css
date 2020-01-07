@@ -1,3 +1,14 @@
+@media (max-width:700px) {
+img {
+   width: 250px;
+   height: 300px;
+}
+table1 {
+    width:100%;
+    float: left;
+}
+
+}
 body {
     margin: 0;
     margin-top: -20px;
@@ -5,16 +16,13 @@ body {
 .header {
     background: green;
     color: white;
-    padding: 50px 50px 50px; 
+    padding: 50px 50px; 
+    width:auto;
 }
-.table1 {
-    margin-left:200px;
+.div-1 {
+    background: rgb(184, 169, 169);
     font-size: 20px;
-    background: rgb(226, 211, 211);
-    padding: 10px;
-}
-.h2 {
-    padding-bottom: 20px;
+    margin-left:50px;
 }
 .div1 {
     display: flex;
@@ -28,5 +36,20 @@ a {
 a:hover {
     text-decoration: underline;
     color: purple;
+}
+.table2 {
+    padding-left: 50px;
+}
+.table-2 {
+    width: 40%;
+}
+.d1 {
+    background: rgb(170, 164, 164);
+}
+.d {
+    background: rgb(170, 164, 164);
+}
+img {
+  
 }
 
